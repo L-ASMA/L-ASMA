@@ -19,7 +19,7 @@ There’s something deeply rewarding about finding the right data, shaping it in
 ## ⚙️ Tech Stack  
 
 **Languages:**  
-[![My Skills](https://skillicons.dev/icons?i=py,scala,r,c,bash,java,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,scala,c,bash,java,html,css,js)](https://skillicons.dev)
 
 **Data & Big Data:**  
 Hadoop | Hive | Spark | Delta Lake | Airflow | Trino | Snowflake | dbt | Oozie | MinIO  
