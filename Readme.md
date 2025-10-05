@@ -10,7 +10,7 @@ Hey, I’m **Asmae LAMGARI**, a final-year **Data Engineering student @ ENSIAS (
 I genuinely believe that **great AI begins with great data engineering** — clean, structured, and thoughtfully automated.  
 There’s something deeply rewarding about finding the right data, shaping it into meaning, and watching reliable pipelines bring intelligence to life.
  
-- 🧠 I’m deeply interested in **AI sovereignty**, **data governance**, and the broader context in which technology evolves.  
+- I’m deeply interested in **AI sovereignty**, **data governance**, and the broader context in which technology evolves.  
 - My curiosity extends beyond code: I read extensively about **history** and **psychoanalysis** (particularly Freud’s ideas) to understand how systems — human or digital — shape behavior.  
   I’m drawn to **projects with tangible social or scientific impact**, where data engineering serves not just efficiency, but purpose — creating infrastructures that matter.
   
