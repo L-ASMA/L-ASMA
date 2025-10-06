@@ -6,8 +6,9 @@
 
 ## 🧠 About Me  
 
-Hey, I’m **Asmae LAMGARI**, a final-year **Data Engineering student @ ENSIAS (Morocco)**.  
-I genuinely believe that **great AI begins with great data engineering** — clean, structured, and thoughtfully automated.  
+**Data Engineer** 
+**ENSIAS (Morocco)**  
+I believe that **great AI begins with great data engineering** — clean, structured, and thoughtfully automated.  
 There’s something deeply rewarding about finding the right data, shaping it into meaning, and watching reliable pipelines bring intelligence to life.
  
 - I’m deeply interested in **AI sovereignty**, **data governance**, and the broader context in which technology evolves.  
