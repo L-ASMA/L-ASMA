@@ -39,18 +39,6 @@ MySQL | PostgreSQL | MongoDB | Cassandra | FAISS | Firebase
 PyTorch | Scikit-learn | Hugging Face | LangChain | RAG | Transformers (BERT, T5, Mistral, LLaMA)  
 
 ---
-
-## 📚 Featured Projects  
-
-| Project | What It Does | Stack |
-|----------|---------------|-------|
-| [**PULSAR**](https://github.com/L-ASMA/PULSAR_SaaS) | Geospatial SaaS that turns geospatial data into **water-quality KPIs** (pH, turbidity, etc.) using NLP and image processing. | Spark, Hive, Trino, PostGIS, WaterKPIBERT |
-| [**Secure DevSecOps Pipeline**](https://macc.ma/cloudtech25/) | CVSS-based vulnerability detection with **LLM-powered auto-remediation**. | CodeBERT, GPT-4, GitLab CI/CD, Docker |
-| [**LLM Gateway (XAI)**](https://github.com/L-ASMA) | Multi-tenant **LLM serving platform** with fine-tuning, observability, and CNDP compliance. | Azure, LoRA, Grafana |
-| [**Neural Architecture Search for Climate Literacy**](https://www.sciencepublishinggroup.com/ISBN/979-8-88599-114-8/059) | NAS that adapts CNNs and Transformers for **region-specific educational data**. | PyTorch, NAS, OECD datasets |
-| [**RL-Based Clinical Decision System**](https://github.com/L-ASMA) | RL agent (PPO/DQN) recommending treatments from chest X-rays. | PPO, DQN, ResNet18, Streamlit |
-
----
 ## 📈 GitHub Metrics  
 
 <p align="center">
