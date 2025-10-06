@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me  
+## About Me  
 
 **Data Engineer** 
 
@@ -18,7 +18,7 @@ Drawn to **projects with tangible social or scientific impact**, data engineerin
   
 ---
 
-## ⚙️ Tech Stack  
+## Tech Stack  
 
 **Languages:**  
 [![My Skills](https://skillicons.dev/icons?i=py,scala,c,bash,java,html,css,js)](https://skillicons.dev)
@@ -39,8 +39,6 @@ MySQL | PostgreSQL | MongoDB | Cassandra | FAISS | Firebase
 PyTorch | Scikit-learn | Hugging Face | LangChain | RAG | Transformers (BERT, T5, Mistral, LLaMA)  
 
 ---
-## 📈 GitHub Metrics  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=L-ASMA&count_private=true&show_icons=true&theme=github_dark&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L-ASMA&layout=compact&theme=github_dark&hide_border=true" width="48%">
@@ -65,7 +63,7 @@ PyTorch | Scikit-learn | Hugging Face | LangChain | RAG | Transformers (BERT, T5
 
 ---
 
-## 🤝 Let’s chat about **tech, art, and the intersection of systems and creativity.**  
+##  Let’s chat about **tech, art, and the intersection of systems and creativity.**  
 
 📫 **asmaelamgarim@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/asmae-lamgari)  
