@@ -65,9 +65,7 @@ PyTorch | Scikit-learn | Hugging Face | LangChain | RAG | Transformers (BERT, T5
 
 ##  Let’s chat about **tech, art, and the intersection of systems and creativity.**  
 
-📫 **asmaelamgarim@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/asmae-lamgari)  
-💻 [GitHub](https://github.com/L-ASMA)
+**asmaelamgarim@gmail.com** | [LinkedIn](https://www.linkedin.com/in/asmae-lamgari)  | [GitHub](https://github.com/L-ASMA)
 
 ---
 
